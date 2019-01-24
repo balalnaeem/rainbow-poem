@@ -1,0 +1,8 @@
+There are the colors in a rainbow.
+-Green
+-Yellow
+-Pink
+-Orange
+-Black
+
+This is a fantastic poem.
