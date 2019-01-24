@@ -3,8 +3,6 @@ There are the colors in a rainbow.
 -Yellow
 -Pink
 -Orange
--Black
 -Purple
--White
 
 This is a fantastic poem.
