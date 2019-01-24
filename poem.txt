@@ -4,5 +4,7 @@ There are the colors in a rainbow.
 -Pink
 -Orange
 -Black
+-Purple
+-White
 
 This is a fantastic poem.
